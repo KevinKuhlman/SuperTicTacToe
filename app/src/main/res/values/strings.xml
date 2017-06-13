@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Super Tic Tac Toe</string>
+    <string name="player_turn">Player\'s Turn, Choose a Square</string>
+    <string name="verify">Click Again to Accept</string>
+    <string name="computer_turn">Computer\'s Turn</string>
+</resources>
